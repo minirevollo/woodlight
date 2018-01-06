@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1963.2307"
+   height="740.22003"
+   version="1.1"
+   id="svg5007"
+   sodipodi:docname="woodlight_Blatt_gross.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata5011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview5009"
+     showgrid="false"
+     inkscape:measure-start="-1190.61,140.072"
+     inkscape:measure-end="463.374,296.765"
+     inkscape:zoom="0.62427723"
+     inkscape:cx="117.3411"
+     inkscape:cy="305.6957"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5003" />
+  <desc
+     id="desc1543">C:\Users\Andreas Reheis\Documents\Laser\woodlight\woodlight.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs1557">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1545"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path1548" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path1550" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path1552" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="PROFILEEDGES"
+     id="g5003"
+     transform="translate(742.94235,-989.5739)">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-opacity:1"
+       d="m -700.3082,1424.9496 c 23.46815,39.6717 32.07973,92.6515 30.8341,137.8843 2.30773,40.5203 2.433,81.278 6.11397,121.6492 5.58484,25.9527 32.82832,35.9369 55.64967,41.6964 31.08229,7.4635 63.1907,-0.072 93.7924,-6.1532 83.09833,-19.1074 157.95073,-70.945 205.59446,-141.6379 30.0324,-46.1394 50.76906,-99.0543 55.61039,-154.0756 -0.56699,-22.4417 -15.17396,-45.5573 -37.22104,-52.2573 -6.08584,-1.2355 -10.81112,-1.6205 -17.23709,-1.6655 -25.57301,-1.354 -41.07746,0.5524 -66.33861,-2.5108 -22.37957,-0.7668 -21.57976,-17.4912 0,-16.8893 28.14346,-1.5073 55.67813,-0.059 83.5757,-3.5795 29.31607,-9.1206 43.41402,-44.2582 34.78557,-72.5331 -15.40512,-93.1064 -71.20073,-178.9148 -151.07373,-229.4332 -45.60821,-30.2125 -98.87952,-48.01821 -153.17641,-53.8022 -30.74594,-4.89081 -64.04524,1.66789 -89.51827,19.6402 -21.57359,17.9902 -14.74077,48.2811 -17.40761,72.8624 -2.06168,38.6433 -3.07328,77.3219 -4.09854,115.9582 -3.02366,31.3713 -10.70072,63.5992 -27.19411,90.4469 -0.2963,0.5137 -9.95133,14.3098 -15.03673,18.6092 -12.75382,11.3299 -30.45471,22.1055 -29.76901,41.6342 0.43583,14.4582 -1.88406,31.0674 9.83955,42.317 11.38413,9.6316 24.67466,20.0666 32.27534,31.8396"
+       id="path4997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       inkscape:tile-cx="245.43317"
+       inkscape:tile-cy="370.17655"
+       inkscape:tile-w="490.80766"
+       inkscape:tile-h="740.22002"
+       inkscape:tile-x0="0.030934244"
+       inkscape:tile-y0="0.067421404" />
+  </g>
+</svg>
