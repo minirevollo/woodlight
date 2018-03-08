@@ -12,7 +12,7 @@ Die Rippen und Ringe wurden aus 3,6 mm starkem Birkensperrholz gelasert. Die bil
 
 Die Blätter aus ca. 0,7 mm starkem Eschenfurnier. Das habe ich bei ebay einen Stapel mit 30 Blätter 60 x 30 cm für Euro 11,-- kaufen können. Das original war mit einem 1,5 mm Birkensperrholz gefertigt. Das Furnier ist nur einlagig und dadurch zerbrechlich. Dafür kann man die Maserung gut erkennen.
 
-Der Prototyp war mit Papier 120 Gramm gefertigt. Sieht auch sehr schön aus. Die Einschnitte in den Rippen müssen hierfür aber geschmälert werden.
+Der Prototyp war mit Papier 120 Gramm gefertigt. Sieht auch sehr schön aus. Die Einschnitte in den Rippen müssen hierfür aber geschmälert werden. Achtung bitte die Datei **woodlight_Rippe_36_v_1_Papier.svg** verwenden. Ansonsten fallen die Papierblätter aus den Einschnitten.
 
 <img src="2D/woodlight_Blatt_gross.svg" width = "60%" /><img src="2D/woodlight_Blatt_klein.svg" width = "15%" />
 
